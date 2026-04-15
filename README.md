@@ -25,9 +25,19 @@ I’m passionate about using technology to solve real-world problems and simplif
 
 <!--- stats (start) -->
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" height="210" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="210" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
 
 
 ##
