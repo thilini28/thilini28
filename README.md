@@ -5,9 +5,9 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-</p>
+</p> 
 
 I’m passionate about using technology to solve real-world problems and simplify everyday life. I enjoy learning new tools and building user-friendly solutions for everyone. I believe technology can improve lives, and I’m committed to growing my skills while creating meaningful digital solutions.
 
@@ -19,9 +19,9 @@ I’m passionate about using technology to solve real-world problems and simplif
 
  <br>
  
-<p align="center">
+<!--<p align="center">
   <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
-</p> 
+</p> -->
 
 ##
 <h3 align="center">Connect with me:</h3>
