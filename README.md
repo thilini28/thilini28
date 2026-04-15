@@ -23,6 +23,21 @@ I’m passionate about using technology to solve real-world problems and simplif
   <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
 </p> -->
 
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+
 ##
 <h3 align="center">Connect with me:</h3>
 <p align="center">
