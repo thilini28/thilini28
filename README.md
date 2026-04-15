@@ -23,20 +23,12 @@ I’m passionate about using technology to solve real-world problems and simplif
   <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
 </p> -->
 
+<!--- stats (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
-  <br></br>
-</td>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" height="210" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="210" />
+</p>
 
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
 
 ##
 <h3 align="center">Connect with me:</h3>
@@ -47,14 +39,21 @@ I’m passionate about using technology to solve real-world problems and simplif
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="50" height="50"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
-<a href="https://www.python.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/></a> </p>
+
+<p align="center">
+<table align="center">
+  <tr>
+    <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" width="50"/></a></td>
+    <td><a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50"/></a></td>
+  </tr>
+</table>
+</p>
