@@ -19,9 +19,9 @@ I’m passionate about using technology to solve real-world problems and simplif
 
  <br>
  
-<!--- <p align="center">
+<p align="center">
   <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
-</p> -->
+</p> 
 
 ##
 <h3 align="center">Connect with me:</h3>
