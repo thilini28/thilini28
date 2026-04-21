@@ -18,17 +18,12 @@ I’m passionate about using technology to solve real-world problems and simplif
 - 📫 How to reach me **thilinikavindya678@gmail.com**
 
  <br>
- 
-<!--<p align="center">
-  <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" />
-</p> -->
 
-<!--- stats (start) -->
+<!--- stats-->
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thilini28?theme=tokyonight" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thilini28&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"" height="210" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="210" />
 </p>
-
 
 ##
 <h3 align="center">Connect with me:</h3>
