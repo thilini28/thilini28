@@ -3,6 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Passionate+Learner;Exploring+code;Building+skills"></a>
 </p>
 
+<!--- about-->
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
@@ -22,21 +23,23 @@ I’m passionate about using technology to solve real-world problems and simplif
 <!--- stats-->
 <table border="0" align="center">
 <tr border="0">
+
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thilini28&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thilini28&theme=dark&hide_border=true" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=thilini28&theme=cobalt&show_icons=true&count_private=true" />
 
-  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilini28&theme=dark&hide_border=true" />
+
 </td>
 
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
+
 </tr>
 </table>
 
