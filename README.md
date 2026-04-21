@@ -20,10 +20,25 @@ I’m passionate about using technology to solve real-world problems and simplif
  <br>
 
 <!--- stats-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thilini28&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"" height="210" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="210" />
-</p>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thilini28&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thilini28&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thilini28&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ##
 <h3 align="center">Connect with me:</h3>
